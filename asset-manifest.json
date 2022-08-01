@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kostiklifter96/cookbook-react.git/static/css/main.80a21f23.css",
-    "main.js": "/kostiklifter96/cookbook-react.git/static/js/main.1ae1abe2.js",
-    "index.html": "/kostiklifter96/cookbook-react.git/index.html",
-    "main.80a21f23.css.map": "/kostiklifter96/cookbook-react.git/static/css/main.80a21f23.css.map",
-    "main.1ae1abe2.js.map": "/kostiklifter96/cookbook-react.git/static/js/main.1ae1abe2.js.map"
+    "main.css": "/cookbook-react/static/css/main.80a21f23.css",
+    "main.js": "/cookbook-react/static/js/main.1ae1abe2.js",
+    "index.html": "/cookbook-react/index.html",
+    "main.80a21f23.css.map": "/cookbook-react/static/css/main.80a21f23.css.map",
+    "main.1ae1abe2.js.map": "/cookbook-react/static/js/main.1ae1abe2.js.map"
   },
   "entrypoints": [
     "static/css/main.80a21f23.css",
